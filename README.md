@@ -1,3 +1,3 @@
 Dash Python
 https://dash.plotly.com/
-Deploy on Google cloud Python 3.7
+Deploy on Google cloud with Python 3.7
