@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "customer-survey-feedback",
+  "private_key_id": "0db2f1954d4ed942c0a1773bb41b1d22dc7f252f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDrmbWWm2FyikXm\nyyQ6bTVPta1T86bI/D5CYGrLJRrvV+FZcEqAWgwoUfSfwnFSpq2xuO7jogqkjqPG\ntmqPno82fLqCnEV4y+pwQ41id6KH5f+hw7HoPwb7HqAVnb672dQ1xOyM/DIyr9sz\nf7HtDq8R1yHvXaXPHcMYd0L7sZRcWlKu0exTNPBQ9pZutlp6p6JdsbAViRIIYrjM\nFv4KMfjKm41iFV3ov0e8lvC6M28PqDCuAcdjyAE8RGQteA8yZy2soko7NFueG/Tm\nszsQphgrT1lkmrXbmDkaEfr6OX99KEHJ1ms8bmtF6ayueWsF8n990E0ZERGwkG62\nMqTmmEYtAgMBAAECggEAFi+h2X5lVU9vGLY9gaECGbD+kv7JUHjsdfy1Yc7rM+m/\nJ1h7M44HQg7Brf+2AzX9+lPzbw012lwyUQahj0e7rcJeH+mOYzs0pwC9gi3I6OpA\nQd/3U2sIAcLXCWIS8YaoRK34JqijI4HK7xUR0MSGuPPc1rknYZMoaZflf2UwFuge\nSBnckdXoRLTf3KPZ4OxgeV1Z8wdEJDNEkV4fcXm/k3fa/dQCKbjKbTASfLAEw/AN\nMINQ9L1VjCDC+4E4ixG1/k+n+HJhw/P/a8mJRe9Iny8ckNUPOozT0XAPfNdA5WHs\niu0aqy3A67HZxUoLBTJoSb8dnfZexmf5ShYxEgxFIwKBgQD7N8hHYLCephXMGnA6\nMkhLU8RuOLeBIAKBNnSH700EFsUitUtuagNzA04wOXB0RrMaXFLW5tZeN8o74Efe\n7ZiDqINhyr85qJy6hfhbWwRNB8zStPZ5WoO/xTlbtUNy51PggGuV+rvRIv0jI1qn\nKPB0Kve5uZQ1uJJYFWR6eBYqHwKBgQDwFdItWXPzUHGOY3fHMNzi8bWJBzlYLxAw\nbGUD3L90dHpp28Qbmb1hXbG2Xu8Df3CcwZ6eL/wOrtj6eYXi5QmwYex/Mp2RXPCP\nMdZk3V5Sg2d9qpNfLYOgtOaFeOf034x/HirS7AWZ+P8EvHg0vnCCPkaBiG4VCP1K\nybolB3neMwKBgQCTofqPB+GDunMA2WCusrINopLDe41L0vXl3Yyp/hWym3cKqKRF\npQOV6ZFfgcH2cz359duw80NzZzHv8iQKfHKunK9pHu82AULp0qVbeqeSZU0XXsWi\nF3Fpl4vXuzSCKDQAsTeIkisiAn/k0HgL2GFGw6GFgev5jhhir1+3IS9VXQKBgQC1\nnyxSljs7M/3Tw7eW/oX7QPMd6FMfPOs4VqfMVjCXvo3kixY98v3rLGAGIKcbtErS\nqz59WLuLuAX45fm8/ZtozYuFZhsBHpf1G7SetUBnl3SxAlteQyYyaueAzUhcXMkC\nWSX4TgimxFDXmmQtMmwWe1oHH9h3HUfQTe79mDw/NQKBgQCWcOUXdVjo5tlttA5R\nE+sbMO9BQbsiJoB+0H7m6PbKLwtwrd6cPjqVvotHQkUzR0WFEkE6kKbmBuS3H0/l\n4VMBf9XGgTRhOYj2frbjJy3FwIErk9sXQmI4UDS1NTMfYWEnYeZNawx2AQasUSaS\nDqwJwUDxyYNYTjM8ZaFN3+wxvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "headphones-feedback-spreadshee@customer-survey-feedback.iam.gserviceaccount.com",
+  "client_id": "113384149070039901741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/headphones-feedback-spreadshee%40customer-survey-feedback.iam.gserviceaccount.com"
+}
